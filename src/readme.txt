@@ -1,0 +1,1 @@
+Write the program based on Bitwise operator in java using Eclipse
